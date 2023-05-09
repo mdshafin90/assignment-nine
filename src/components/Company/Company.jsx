@@ -9,7 +9,10 @@ const Company = ({ company }) => {
             <img src={companyLogo} alt="" />
             <h2>{name}</h2>
             <h4>{companyName}</h4>
-            <p>{companyLocation}</p>
+            <div>
+                <p>{companyLocation}</p>
+                <p>{salaryRange}</p>
+            </div>
         </div>
     );
 };
