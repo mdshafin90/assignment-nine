@@ -5,7 +5,10 @@
         "id": 1234,
         "companyLogo": "../public/companyImg/google.png",
         "companyLocation": "San Francisco, CA",
-        "salaryRange": "150K - 200K"
+        "salaryRange": "150K - 200K",
+        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "phone": "01789000000",
+        "email" : ""
     },
     {
         "name": "Project Manager on Netflix",
@@ -13,7 +16,8 @@
         "id": 5678,
         "companyLogo": "../public/companyImg/netflix.png",
         "companyLocation": "New York, NY",
-        "salaryRange": "150K - 200K"
+        "salaryRange": "150K - 200K",
+        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "name": "Senior Product Designer",
@@ -21,7 +25,8 @@
         "id": 9012,
         "companyLogo": "../public/companyImg/amazon.png",
         "companyLocation": "Seattle, WA",
-        "salaryRange": "150K - 200K"
+        "salaryRange": "150K - 200K",
+        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "name": "Senior Car Model Designer",
@@ -29,7 +34,8 @@
         "id": 3456,
         "companyLogo": "../public/companyImg/tesla.png",
         "companyLocation": "Chicago, IL",
-        "salaryRange": "150K - 200K"
+        "salaryRange": "150K - 200K",
+        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "name": "Software Developer",
@@ -37,7 +43,8 @@
         "id": 7890,
         "companyLogo": "../public/companyImg/samsung.png",
         "companyLocation": "Boston, MA",
-        "salaryRange": "150K - 200K"
+        "salaryRange": "150K - 200K",
+        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     },
     {
         "name": "Data Scientist With Programming",
@@ -45,6 +52,7 @@
         "id": 2345,
         "companyLogo": "../public/companyImg/asus.png",
         "companyLocation": "Austin, TX",
-        "salaryRange": "150K - 200K"
+        "salaryRange": "150K - 200K",
+        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
     }
 ]
