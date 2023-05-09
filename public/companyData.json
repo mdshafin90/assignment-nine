@@ -1,0 +1,44 @@
+[
+    {
+        "companyName": "ABC Corp",
+        "id": 1234,
+        "companyLogo": "",
+        "companyLocation": "San Francisco, CA",
+        "salaryRange": "150K - 200K"
+    },
+    {
+        "companyName": "XYZ Inc",
+        "id": 5678,
+        "companyLogo": "",
+        "companyLocation": "New York, NY",
+        "salaryRange": "150K - 200K"
+    },
+    {
+        "companyName": "MNO Corp",
+        "id": 9012,
+        "companyLogo": "",
+        "companyLocation": "Seattle, WA",
+        "salaryRange": "150K - 200K"
+    },
+    {
+        "companyName": "PQR Inc",
+        "id": 3456,
+        "companyLogo": "",
+        "companyLocation": "Chicago, IL",
+        "salaryRange": "150K - 200K"
+    },
+    {
+        "companyName": "LMN Corp",
+        "id": 7890,
+        "companyLogo": "",
+        "companyLocation": "Boston, MA",
+        "salaryRange": "150K - 200K"
+    },
+    {
+        "companyName": "QRS Inc",
+        "id": 2345,
+        "companyLogo": "",
+        "companyLocation": "Austin, TX",
+        "salaryRange": "150K - 200K"
+    }
+]

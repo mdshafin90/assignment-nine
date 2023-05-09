@@ -1,0 +1,26 @@
+[
+    {
+        "id": 12345,
+        "jobName": "Software Engineer",
+        "jobQuantity": "300 Jobs Available",
+        "image": "../public/icons/icon-01.png"
+    },
+    {
+        "id": 5432,
+        "jobName": "Web Developer",
+        "jobQuantity": "500+ Jobs Available",
+        "image": "../public/icons/icon-02.png"
+    },
+    {
+        "id": 2468,
+        "jobName": "Data Analyst",
+        "jobQuantity": "200 Jobs Available",
+        "image": "../public/icons/icon-03.png"
+    },
+    {
+        "id": 7890,
+        "jobName": "Graphic Designer",
+        "jobQuantity": "120+ Jobs Available",
+        "image": "../public/icons/icon-04.png"
+    }
+]
