@@ -96,7 +96,7 @@
 .company-map {
     display: grid;
     grid-template-columns: 2fr 2fr;
-    gap: 25px;
+    margin: 0 50px;
 }
 
 .all-jobs-button {

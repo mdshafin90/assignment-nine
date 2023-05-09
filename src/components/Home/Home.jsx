@@ -67,8 +67,8 @@ const Home = () => {
                 <button className='btn-all-jobs'>See All Jobs</button>
             </div>
 
-
             {/* Home Second Body Part End */}
+
         </div>
     );
 };
