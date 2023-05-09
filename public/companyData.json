@@ -1,43 +1,49 @@
 [
     {
-        "companyName": "ABC Corp",
+        "name": "Technical Database Engineer",
+        "companyName": "Google",
         "id": 1234,
-        "companyLogo": "",
+        "companyLogo": "../public/companyImg/google.png",
         "companyLocation": "San Francisco, CA",
         "salaryRange": "150K - 200K"
     },
     {
-        "companyName": "XYZ Inc",
+        "name": "Project Manager on Netflix",
+        "companyName": "Netflix",
         "id": 5678,
-        "companyLogo": "",
+        "companyLogo": "../public/companyImg/netflix.png",
         "companyLocation": "New York, NY",
         "salaryRange": "150K - 200K"
     },
     {
-        "companyName": "MNO Corp",
+        "name": "Senior Product Designer",
+        "companyName": "Amazon",
         "id": 9012,
-        "companyLogo": "",
+        "companyLogo": "../public/companyImg/amazon.png",
         "companyLocation": "Seattle, WA",
         "salaryRange": "150K - 200K"
     },
     {
-        "companyName": "PQR Inc",
+        "name": "Senior Car Model Designer",
+        "companyName": "Tesla",
         "id": 3456,
-        "companyLogo": "",
+        "companyLogo": "../public/companyImg/tesla.png",
         "companyLocation": "Chicago, IL",
         "salaryRange": "150K - 200K"
     },
     {
-        "companyName": "LMN Corp",
+        "name": "Software Developer",
+        "companyName": "Samsung",
         "id": 7890,
-        "companyLogo": "",
+        "companyLogo": "../public/companyImg/samsung.png",
         "companyLocation": "Boston, MA",
         "salaryRange": "150K - 200K"
     },
     {
-        "companyName": "QRS Inc",
+        "name": "Data Scientist With Programming",
+        "companyName": "Asus",
         "id": 2345,
-        "companyLogo": "",
+        "companyLogo": "../public/companyImg/asus.png",
         "companyLocation": "Austin, TX",
         "salaryRange": "150K - 200K"
     }
