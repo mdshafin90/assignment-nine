@@ -6,9 +6,11 @@
         "companyLogo": "../public/companyImg/google.png",
         "companyLocation": "San Francisco, CA",
         "salaryRange": "150K - 200K",
-        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
         "phone": "01789000000",
-        "email" : ""
+        "email": "googlebd@gamil.com",
+        "address": "San Francisco, CA USA",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members."
     },
     {
         "name": "Project Manager on Netflix",
@@ -17,7 +19,11 @@
         "companyLogo": "../public/companyImg/netflix.png",
         "companyLocation": "New York, NY",
         "salaryRange": "150K - 200K",
-        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "phone": "01789000000",
+        "email": "netflix@gamil.com",
+        "address": "New York, NY",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members."
     },
     {
         "name": "Senior Product Designer",
@@ -26,7 +32,11 @@
         "companyLogo": "../public/companyImg/amazon.png",
         "companyLocation": "Seattle, WA",
         "salaryRange": "150K - 200K",
-        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "phone": "01789000000",
+        "email": "amazonbd@gamil.com",
+        "address": "Seattle, WA",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members."
     },
     {
         "name": "Senior Car Model Designer",
@@ -35,7 +45,11 @@
         "companyLogo": "../public/companyImg/tesla.png",
         "companyLocation": "Chicago, IL",
         "salaryRange": "150K - 200K",
-        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "phone": "01789000000",
+        "email": "teslabd@gamil.com",
+        "address": "Chicago, IL",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members."
     },
     {
         "name": "Software Developer",
@@ -44,7 +58,11 @@
         "companyLogo": "../public/companyImg/samsung.png",
         "companyLocation": "Boston, MA",
         "salaryRange": "150K - 200K",
-        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "phone": "01789000000",
+        "email": "samsungbd@gamil.com",
+        "address": "Boston, MA",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members."
     },
     {
         "name": "Data Scientist With Programming",
@@ -53,6 +71,10 @@
         "companyLogo": "../public/companyImg/asus.png",
         "companyLocation": "Austin, TX",
         "salaryRange": "150K - 200K",
-        "JobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface."
+        "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "phone": "01789000000",
+        "email": "asusbd@gamil.com",
+        "address": "Austin, TX",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members."
     }
 ]

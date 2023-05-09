@@ -62,6 +62,8 @@ const Home = () => {
                     ></Company>)
                 }
             </div>
+
+            {/* Home Second Body Part End */}
         </div>
     );
 };
