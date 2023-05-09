@@ -54,7 +54,7 @@ const Home = () => {
                 <h1>Featured Jobs</h1>
                 <p>Explore thousands of job opportunities with all the information you need. Its your future</p>
             </div>
-            <div>
+            <div className='company-map'>
                 {
                     companyData.map(company => <Company
                         key={company.id}
@@ -62,6 +62,11 @@ const Home = () => {
                     ></Company>)
                 }
             </div>
+
+            <div className='all-jobs-button'>
+                <button className='btn-all-jobs'>See All Jobs</button>
+            </div>
+
 
             {/* Home Second Body Part End */}
         </div>

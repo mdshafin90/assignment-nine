@@ -92,3 +92,27 @@
     font-weight: 500;
     font-size: 20px;
 }
+
+.company-map {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap: 25px;
+}
+
+.all-jobs-button {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.btn-all-jobs {
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    border: none;
+    width: 174px;
+    height: 65px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+}
