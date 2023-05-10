@@ -1,0 +1,223 @@
+.job-details-header {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.companyDetails {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px auto;
+}
+
+.companyDetails-first {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.job-description {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+    line-height: 25px;
+    color: #1A1919;
+}
+
+.job-description-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #757575;
+    line-height: 25px;
+}
+
+.jop-res {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+    line-height: 25px;
+    color: #1A1919;
+}
+
+.job-res-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #757575;
+    line-height: 25px;
+}
+
+.education-requirment {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+    line-height: 25px;
+    color: #1A1919;
+}
+
+.education-requirment-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #757575;
+    line-height: 25px;
+}
+
+.experience {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 17px;
+    line-height: 25px;
+    color: #1A1919;
+}
+
+.experience-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #757575;
+    line-height: 25px;
+}
+
+.companyDetails-two {
+    width: 425px;
+    padding: 40px;
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.1) 0%, rgba(152, 115, 255, 0.1) 100%);
+    border-radius: 8px;
+}
+
+.job-details {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    color: #1A1919;
+    line-height: 20px;
+}
+
+.salary {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+    line-height: 20px;
+}
+
+.salary-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #757575;
+    line-height: 20px;
+}
+
+.jobTitle {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+    line-height: 20px;
+}
+
+.jobTitle-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #757575;
+    line-height: 20px;
+}
+
+.contact-info {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    color: #1A1919;
+    line-height: 20px;
+}
+
+.phone {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+    line-height: 20px;
+}
+
+.phone-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #757575;
+    line-height: 20px;
+}
+
+.email {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+    line-height: 20px;
+}
+
+.email-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #757575;
+    line-height: 20px;
+}
+
+.address {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+    line-height: 20px;
+}
+
+.address-dynamic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #757575;
+    line-height: 20px;
+}
+
+.btn-apply-now {
+    width: 425px;
+    height: 65px;
+    border: none;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    padding: 19px 161px;
+    gap: 10px;
+    cursor: pointer;
+    margin-top: 50px;
+}

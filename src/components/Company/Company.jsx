@@ -1,8 +1,8 @@
 import React from 'react';
 import './Company.css'
-import ReactDOM from 'react-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCircleDollarToSlot, faLocationDot } from '@fortawesome/free-solid-svg-icons'
+import { Link } from 'react-router-dom';
 
 const Company = ({ company }) => {
     const { companyName, name, id, companyLogo, companyLocation, salaryRange } = company
@@ -18,7 +18,7 @@ const Company = ({ company }) => {
                 <p><FontAwesomeIcon icon={faLocationDot} />  {companyLocation}</p>
                 <p className='company-salary'><FontAwesomeIcon icon={faCircleDollarToSlot} />  {salaryRange}</p>
             </div>
-            <button className='btn-view-details'>View Details</button>
+            <Link to={`/detail/${id}`}><button className='btn-view-details'>View Details</button></Link>
         </div>
     );
 };

@@ -11,6 +11,7 @@ import Statistics from './components/Statistics/Statistics.jsx';
 import AppliedJobs from './components/AppliedJobs/AppliedJobs.jsx';
 import Blog from './components/Blog/Blog.jsx';
 import Main from './components/Layout/Main.jsx';
+import CompanyDetails from './components/CompanyDetails/CompanyDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -33,6 +34,11 @@ const router = createBrowserRouter([
       {
         path: "blog",
         element: <Blog></Blog>
+      },
+      {
+        path: "detail/:detailId",
+        element: <CompanyDetails></CompanyDetails>,
+        loader: ({ params }) => fetch('/companyData.json').then(res => res.json()).then(datas => datas.find(data => data.id == params.detailId))
       }
     ]
   }
