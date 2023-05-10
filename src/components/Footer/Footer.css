@@ -4,4 +4,76 @@
     height: 500px;
     background-color: black;
     color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-part-one {
+    height: 500px;
+    width: 400px;
+    text-align: start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.footer-logo {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-part-two {
+    display: flex;
+    width: 1150px;
+    height: 500px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.footer-part-two h3 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.footer-part-two a {
+    text-decoration: none;
+    color: white;
+    line-height: 40px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.company-footer {
+    display: flex;
+    flex-direction: column;
+    width: 91px;
+    height: 199px;
+}
+
+.product-footer {
+    display: flex;
+    flex-direction: column;
+    width: 91px;
+    height: 199px;
+}
+
+.support-footer {
+    display: flex;
+    flex-direction: column;
+    width: 91px;
+    height: 199px;
+}
+
+.contact-footer {
+    height: 199px;
 }
