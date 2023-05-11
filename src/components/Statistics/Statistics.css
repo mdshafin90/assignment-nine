@@ -1,0 +1,9 @@
+.recharts-header {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.pie-chart {
+    display: flex;
+    justify-content: center;
+}
