@@ -6,37 +6,37 @@ import { PieChart, Pie, Legend, Tooltip, ResponsiveContainer } from 'recharts';
 const assignmentData = [
     {
         name: 'Assignment-One',
-        value: 27,
+        mark: 27,
         id: 2365
     },
     {
         name: 'Assignment-Two',
-        value: 27,
+        mark: 27,
         id: 3515
     },
     {
         name: 'Assignment-Three',
-        value: 5,
+        mark: 5,
         id: 8745
     },
     {
         name: 'Assignment-Four',
-        value: 20,
+        mark: 20,
         id: 6548
     },
     {
         name: 'Assignment-Five',
-        value: 45,
+        mark: 45,
         id: "1545"
     },
     {
         name: 'Assignment-Six',
-        value: 5,
+        mark: 5,
         id: 9454
     },
     {
         name: 'Assignment-Seven',
-        value: 5,
+        mark: 5,
         id: 3984
     },
 ];
@@ -48,7 +48,7 @@ const Statistics = () => {
             <div className='pie-chart'>
                 <PieChart width={600} height={600}>
                     <Pie
-                        dataKey="value"
+                        dataKey="mark"
                         isAnimationActive={false}
                         data={assignmentData}
                         cx="50%"
