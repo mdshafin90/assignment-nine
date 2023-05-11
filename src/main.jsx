@@ -20,8 +20,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <Home></Home>,
-        loader: () => fetch('header-first.json'),
+        element: <Home></Home>
       },
       {
         path: "statistics",

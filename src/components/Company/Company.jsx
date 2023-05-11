@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const Company = ({ company }) => {
     const { companyName, name, id, companyLogo, companyLocation, salaryRange } = company
-    console.log(company)
+
     return (
         <div className='company-info'>
             <img src={companyLogo} alt="" />

@@ -6,7 +6,13 @@ import HeaderFirst from '../HeaderFirst/HeaderFirst';
 import Company from '../Company/Company';
 
 const Home = () => {
-    const headerFirst = useLoaderData()
+    const [headerFirst, setHeaderFirst] = useState([])
+    // const headerFirst = useLoaderData()
+    useEffect(() => {
+        fetch('header-first.json')
+            .then(res => res.json())
+            .then(data => setHeaderFirst(data))
+    }, [])
 
     const [companyData, setCompanyData] = useState([])
     useEffect(() => {
